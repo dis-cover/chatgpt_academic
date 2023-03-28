@@ -25,5 +25,5 @@ MAX_RETRY = 2
 LLM_MODEL = "gpt-3.5-turbo"
 
 # 检查一下是不是忘了改config
-if API_KEY == "sk-此处填API秘钥":
+if API_KEY == "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":
     assert False, "请在config文件中修改API密钥, 添加海外代理之后再运行"
